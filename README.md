@@ -1,21 +1,19 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** DD.MM.YYYY  
-**Name:** Mert  
-**Surname:** Cobanov  
-**Email:** mertcobanov@gmail.com  
-
-**Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
+**Course Date:** 01/03/2021 - 05/03/2021
+**Name:** Esra Gül
+**Surname:** Çetinkaya
+**Email:** esragcetinkaya@gmail.com  
 
 ## Project Name
-Description of your project.
+This repository created for Introduction To AI and Deep Learning Course giving by Global AI Hub collaboration with LeadingIndia.ai! 
 
 ## Requirements
 ```
-Some python libraries
-Some python libraries
-Some python libraries
+Numpy
+Pandas
+Tensorflow
 ```
 ---
 
