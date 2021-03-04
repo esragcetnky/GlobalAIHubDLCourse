@@ -3,8 +3,11 @@
 ![](img/newlogo.png)
 
 **Course Date:** 01/03/2021 - 05/03/2021
+
 **Name:** Esra Gül
+
 **Surname:** Çetinkaya
+
 **Email:** esragcetinkaya@gmail.com  
 
 ## Project Name
