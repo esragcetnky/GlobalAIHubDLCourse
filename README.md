@@ -1,6 +1,24 @@
-# GlobalAIHubDLCourse
+# GAIH Student Repo Example
+![](img/newlogo.png)
 
-This repository was created for the Introduction AI and Deep Learning course 
-giving by Global AI Hub with LeadingIndia.ai! 
+**Course Date:** DD.MM.YYYY  
+**Name:** Mert  
+**Surname:** Cobanov  
+**Email:** mertcobanov@gmail.com  
 
-Contact : esragcetinkaya@gmail.com
+**Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
+
+## Project Name
+Description of your project.
+
+## Requirements
+```
+Some python libraries
+Some python libraries
+Some python libraries
+```
+---
+
+### Certification
+![](img/certificate_ex.png)
+
