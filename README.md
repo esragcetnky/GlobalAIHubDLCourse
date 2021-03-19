@@ -22,5 +22,6 @@ Tensorflow
 ---
 
 ### Certification
-![](img/certificate_ex.png)
+![global ai](https://user-images.githubusercontent.com/34620400/111833334-17ac3100-8903-11eb-81f1-60605e493f92.png)
+
 
