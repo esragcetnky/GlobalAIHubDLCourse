@@ -18,6 +18,7 @@ This repository created for Introduction To AI and Deep Learning Course giving b
 Numpy
 Pandas
 Tensorflow
+Matplotlib
 ```
 ---
 
